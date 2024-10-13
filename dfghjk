@@ -1,0 +1,73 @@
+[33mcommit b16b83a74fd4414de16752a26885946c63ab19a5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: bbd4fec 64415ad
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Sun Oct 13 18:21:23 2024 +0700
+
+    Merge branch 'main' of https://github.com/BaoPhiPham/hocgitcobanS3
+
+[33mcommit 64415adfceb737c6399267c860ab8b3656e08ae9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chill <162521131+BaoPhiPham@users.noreply.github.com>
+Date:   Sun Oct 13 18:18:43 2024 +0700
+
+    Update file css
+
+[33mcommit bbd4fec53353f9fd98999df398abb2e0b24b0086[m
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Sun Oct 13 16:09:50 2024 +0700
+
+    Vừa thêm file readme1
+
+[33mcommit e5b3e939e175788d2491a5a559786480ce6a7c83[m
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Sun Oct 13 16:09:50 2024 +0700
+
+    Vừa thêm file readme1
+
+[33mcommit 99afd3b104bf823bba7c3d25d65b3d821cca8743[m
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Tue Oct 8 12:48:02 2024 +0700
+
+    added ignore file
+
+[33mcommit 980fdb7c1964147c6875d89cd0d3a4a7fb3d0536[m
+Merge: cd610e5 8fb2cf1
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Tue Oct 8 12:35:47 2024 +0700
+
+    handle conflicting of color h1
+
+[33mcommit cd610e5e7cebd446bf77705666edf7af84537ee0[m
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Tue Oct 8 12:31:39 2024 +0700
+
+    nhan vien update h1 color green
+
+[33mcommit 8fb2cf136a63e0dff1a025c6c3cdc583e79abf80[m
+Author: Chill <162521131+BaoPhiPham@users.noreply.github.com>
+Date:   Tue Oct 8 12:29:28 2024 +0700
+
+    sep Update style.css color blue
+
+[33mcommit 0b74cc0d013588a429b6d84a3d724b0c51c09754[m
+Author: Chill <162521131+BaoPhiPham@users.noreply.github.com>
+Date:   Tue Oct 8 12:24:01 2024 +0700
+
+    Update style.css
+
+[33mcommit 71e5ad5882d21a945ff9ac6897698c9bc73e6238[m
+Author: Chill <162521131+BaoPhiPham@users.noreply.github.com>
+Date:   Tue Oct 8 12:23:14 2024 +0700
+
+    sep Create README.md
+
+[33mcommit 4f6d9ddff886cd042a1d87b8f678f170d5eebca6[m
+Author: baophi852@gmail.com <baophi852@gmail.com>
+Date:   Tue Oct 8 12:17:17 2024 +0700
+
+    modified style added h1
+
+[33mcommit e27aaf612c58882f87ad1a6a399ae18e46881a99[m
+Author: unknown <baophi852@gmail.com>
+Date:   Tue Oct 8 11:43:28 2024 +0700
+
+    Tạo 2 file index style
